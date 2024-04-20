@@ -1,0 +1,34 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\mohan\IdeaProjects\BowAndAroow\.idea\artifacts\test.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\mohan\IdeaProjects\BowAndAroow\.idea\artifacts\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.001.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Users\mohan\Downloads\platform-tools;C:\Program Files\Git\cmd;C:\Users\mohan\AppData\Local\Microsoft\WindowsApps;D:\SteamLibrary\IntelliJ IDEA 2023.3.4\bin;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Users\mohan\Downloads\platform-tools;C:\Program Files\Git\cmd;C:\Users\mohan\AppData\Local\Microsoft\WindowsApps;D:\SteamLibrary\IntelliJ IDEA 2023.3.4\bin;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\mohan\Downloads\platform-tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\mohan\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	D:\SteamLibrary\IntelliJ IDEA 2023.3.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\mohan\IdeaProjects\BowAndAroow\.idea\artifacts\test.exe"
+Args length:	71/32768 chars
+Exit code:	0
