@@ -129,13 +129,4 @@ public class Game extends PApplet {
             }
         }
     }
-    public void keyPressed() {
-        if ((key == ENTER || key == RETURN) && gameOver) {
-            gameOver = false;
-            restart();
-        }
-    }
-    private void restart(){
-        lives=3;minspeed=1;maxspeed=3;Levelfactor=10;level=1;spawnInterval=1500;
-    }
 }
